@@ -1,2 +1,2 @@
-# nov_2025_luit
-demo
+# LUIT DEMO resposity
+This resposity has been created as a DEMO setup with LUIT class
