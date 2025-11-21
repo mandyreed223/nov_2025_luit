@@ -1,2 +1,2 @@
-# LUIT DEMO Repository
-This repository has been created as a DEMO setup with LUIT class
+# My LUIT Python Repository
+This repository has been created as part of my LUIT coursework to share Python DEMOs
